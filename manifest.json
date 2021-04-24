@@ -1,6 +1,6 @@
 {
-    "name": "too_many_dramas",
-    "short_name": "too_many_dramas",
+    "name": "Too Many Dramas",
+    "short_name": "Too Many Dramas",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
